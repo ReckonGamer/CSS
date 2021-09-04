@@ -1,0 +1,28 @@
+body{
+  font-size: 16px;
+  font-family: Verdana, Calibri, sans-serif;
+}
+
+#primero{
+  color: blue;
+}
+
+#paginas{
+  color: darkblue;
+  background-color: #FFF686;
+  font-weight:  500;
+}
+
+a{
+  color: #C13838;
+}
+
+#negrita{
+  color: black;
+  font-weight: 700;
+}
+#especial{
+ color: yellow;
+  background-color: #000;
+  font-style: italic;
+}

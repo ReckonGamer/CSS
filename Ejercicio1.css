@@ -1,0 +1,72 @@
+/* Título de la página */
+#HTMLTitulo{
+	color: #F00;
+	font-family: Verdana, Calibri, sans-serif;
+	font-size: 32px;
+}
+#Datos{
+	color: #A00;
+	font-family: Verdana, Calibri, sans-serif;
+	font-size: 24px;
+}
+#Contenido{
+	color: #A00;
+	font-family: Verdana, Calibri, sans-serif;
+	font-size: 24px;
+}
+body{
+	background-color: #CFC;
+	color: #00F;
+	font-family: Georgia, Cambria, serif;
+	font-size: 16px;
+}
+#Titulo{
+	color: #060;
+}
+#Autor{
+	color: #060;
+}
+#Editorial{
+	color: #060;
+}
+#Año{
+	color: #060;
+}
+#ISBN{
+	color: #060;
+}
+#Internet{
+	font-weight: 700;
+	font-size: 20px;
+}
+#Hypertexto{
+	color: #FFF;
+	background-color: #000;
+	font-style: italic;
+}
+#Cascading{
+	color: #FFF;
+	background-color: #000;
+	font-style: italic;
+}
+#Datos2{
+	color: #A00;
+	font-family: Verdana, Calibri, sans-serif;
+	font-size: 24px;
+}
+#Web{
+	font-weight: 700;
+	font-size: 20px;
+}
+#URL{
+	color: #FFF;
+	background-color: #000;
+}
+#HTML{
+	color: #FFF;
+	background-color: #000;
+}
+#CSS{
+	color: #FFF;
+	background-color: #000;
+}
